@@ -385,7 +385,7 @@ PRICES = {
     Su_57: 40,
     SpitfireLFMkIX: 1, #14
     SpitfireLFMkIXCW: 1, #14
-    I_16: 0.5, #10
+    I_16: 1, #10
     Bf_109K_4: 1, #14
     FW_190D9: 1, #16
     FW_190A8: 1, #14
