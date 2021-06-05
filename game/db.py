@@ -382,12 +382,12 @@ PRICES = {
     JF_17: 20,
     Su_30: 24,
     Su_57: 40,
-    SpitfireLFMkIX: 14,
-    SpitfireLFMkIXCW: 14,
-    I_16: 10,
-    Bf_109K_4: 14,
-    FW_190D9: 16,
-    FW_190A8: 14,
+    SpitfireLFMkIX: 1, #14
+    SpitfireLFMkIXCW: 1, #14
+    I_16: 0.5, #10
+    Bf_109K_4: 1, #14
+    FW_190D9: 1, #16
+    FW_190A8: 1, #14
     A_20G: 22,
     Ju_88A4: 24,
     F_5E_3: 8,
@@ -465,11 +465,11 @@ PRICES = {
     C_130: 25,
     Hercules: 25,
     # WW2
-    P_51D_30_NA: 18,
-    P_51D: 16,
-    P_47D_30: 17,
-    P_47D_30bl1: 16,
-    P_47D_40: 18,
+    P_51D_30_NA: 1, #18
+    P_51D: 1, #16
+    P_47D_30: 1, #17
+    P_47D_30bl1: 1, #16
+    P_47D_40: 1, #18
     B_17G: 30,
     # Drones
     MQ_9_Reaper: 12,
